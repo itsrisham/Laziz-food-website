@@ -48,7 +48,8 @@ For any questions or inquiries, please reach out:
 Name: Risham Goyal
 Email: rishamgoyal9091@gmail.com
 LinkedIn: www.linkedin.com/in/risham-goyal-755798267
-Github:https://github.com/itsrisham.png
+<img src="https://github.com/itsrisham.png" alt="Github image" align="left" style="border-radius: 50px; width: 50px; height: 50px; border: 2px solid white;">
+<h4 align="left">Risham Goyal (https://github.com/itsrisham)</h4>
 
 
 _________________________________________________________________________
