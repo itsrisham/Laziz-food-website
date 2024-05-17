@@ -45,12 +45,11 @@ Contributions are welcome! If you have suggestions for improvements or new featu
 ### Contact
 For any questions or inquiries, please reach out:
 
-Name: Risham Goyal
-Email: rishamgoyal9091@gmail.com
-LinkedIn: www.linkedin.com/in/risham-goyal-755798267
-<img src="https://github.com/itsrisham.png" alt="Github image" align="left" style="border-radius: 50px; width: 50px; height: 50px; border: 2px solid white;">
-<h4 align="left">Risham Goyal (https://github.com/itsrisham)</h4>
-
+<div align="left">
+   <img src="https://github.com/itsrisham.png" alt="Github image" align="left" style="border-radius: 50px; width: 50px; height: 50px; border: 2px solid white;">
+   <h4 align="left">Risham Goyal (https://github.com/itsrisham)</h4>
+   <h4 align="left">Linkedin Profile(www.linkedin.com/in/risham-goyal-755798267)</h4>
+</div>
 
 _________________________________________________________________________
 
