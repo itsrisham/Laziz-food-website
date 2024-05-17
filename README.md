@@ -48,7 +48,7 @@ For any questions or inquiries, please reach out:
 <div align="left">
    <img src="https://github.com/itsrisham.png" alt="Github image" align="left" style="border-radius: 50px; width: 50px; height: 50px; border: 2px solid white;">
    <h4 align="left">Risham Goyal (https://github.com/itsrisham)</h4>
-      <img src="[**https://github.com/itsrisham.png](https://media.licdn.com/dms/image/D5603AQEbvfdhZDjrYg/profile-displayphoto-shrink_800_800/0/1715936968905?e=1721260800&v=beta&t=KrTVwpOo0HRxZ7x71Zoioy8QtbDGEdo6g70iGB7rBNg)" alt="Github image" align="left" style="border-radius: 50px; width: 50px; height: 50px; border: 2px solid white;">
+      <img src="https://media.licdn.com/dms/image/D5603AQEbvfdhZDjrYg/profile-displayphoto-shrink_800_800/0/1715936968905?e=1721260800&v=beta&t=KrTVwpOo0HRxZ7x71Zoioy8QtbDGEdo6g70iGB7rBNg" alt="Linkedin image" align="left" style="border-radius: 50px; width: 50px; height: 50px; border: 2px solid white;">
    <h4 align="left">Linkedin Profile(www.linkedin.com/in/risham-goyal-755798267)</h4>
 </div>
 
